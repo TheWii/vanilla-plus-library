@@ -1,8 +1,0 @@
-{
-    "values": [
-        "vplib:load/init",
-        "#vplib:load/enumerate",
-        "#vplib:load/resolve",
-        "#vplib:load/post"
-    ]
-}
